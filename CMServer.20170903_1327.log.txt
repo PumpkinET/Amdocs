@@ -1,0 +1,4 @@
+AN EXAMPLE FOR AN ERROR :
+
+
+<<ERROR>>  [Sep 03 13:41:49] [[ACTIVE] ExecuteThread: '13' for queue: 'weblogic.kernel.Default (self-tuning)'] [CM.amdocs.app.flowcontrol] [cmDefaultGuest] (CM1-000301) Customer Hierarchy module: The maximum limit for the number of connections has been reached.

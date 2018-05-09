@@ -1,0 +1,37 @@
+
+
+
+AR1-000001
+Failure while trying to connect to Audit & Control.
+N/A
+Make sure that the database is up and that the AC1_CONTROL table is available.
+
+
+AR1-000002
+Failed to create an output file in Audit & Control.
+N/A
+Check the logs for more details. Specifically, an Audit and Control error message in the logs may give more information.
+
+
+AR1-000003
+In Audit & Control, failed to create an output file for the payment posting process.
+N/A
+Check the logs for more details. Specifically, an Audit and Control error message in the logs may give more information.
+
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+I'm not allowed to upload the whole information :-)

@@ -1,0 +1,37 @@
+
+
+
+CM1-000001
+No account with an ID {0,number,#} was found.
+No matching record was found in the CSM_ACCOUNT application table for the given value of the BAN field.
+1. If you are entering the account ID manually, enter a valid value. \n2. Otherwise, contact the Amdocs Customer Manager and the Amdocs Billing Care - Lite focal points for reconciliation.
+
+
+CM1-000002
+The activity with the ID {0} is already handled.
+An attempt is made to handle an activity that has been handled before. An activity can be handled only once.
+1. This could be a database problem or an internal error in the code. \n2. Contact the Amdocs Customer Manager focal point or your next level of support.
+
+
+CM1-000014
+No agreement information for unit ID {0,number,#} and agreement type {1} was found.
+No matching record was found in the AGREEMENT application table for the given values of the CH_NODE_ID and AGREEMENT_TYPE fields.
+Check if the unit ID and the agreement type have valid values (check the values in the AGREEMENT table).
+
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+I'm not allowed to upload the whole information :-)
